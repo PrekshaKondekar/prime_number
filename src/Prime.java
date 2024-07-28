@@ -59,6 +59,7 @@ public class Prime {
 		}else {
 
 			System.out.println("prime**");
+			System.out.println("*prime*");
 
 			System.out.println("***prime***");
 
