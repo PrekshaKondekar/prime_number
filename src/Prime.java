@@ -57,11 +57,7 @@ public class Prime {
 		if(count==1) {
 			System.out.println("not prime");
 		}else {
-
-			System.out.println("prime**");
-			System.out.println("*prime*");
-
-			System.out.println("***prime***");
+				System.out.println("***prime***");
 
 		}
 		
